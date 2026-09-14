@@ -117,6 +117,7 @@ Community examples, open to everyone. This is the section external contributions
 | [`employee-data-orchestration`](examples/employee-data-orchestration) | An orchestration that reads worker data from one tenant and creates matching records through the Workday REST API. | Orchestration |
 | [`pto-policy-agent-skill`](examples/pto-policy-agent-skill) | A markdown skill that teaches an agent to answer employee questions about PTO, leave accrual, rollover, and sick leave policy with clear escalation rules. | Agent Skill |
 | [`stock-notifications`](examples/stock-notifications) | An Extend app that fetches Workday's current stock price from an external API and displays it on a home page card. | Extend App |
+| [`wql-anniversary-celebrations`](examples/wql-anniversary-celebrations) | An orchestration that queries Workday via WQL for active workers celebrating milestone work anniversaries and formats an announcement digest payload for collaboration channels. | Orchestration |
 <!-- examples:end -->
 
 ## Contributing
