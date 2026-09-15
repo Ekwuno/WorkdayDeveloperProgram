@@ -35,7 +35,7 @@ Thanks for helping build the open home for Workday Build examples. Adding an exa
 
    Each creates `examples/your-example-name/` with a prefilled `example.json` and README skeleton. (You can also copy `examples/_template/` by hand.)
 
-3. **Drop your artifact in.** Whatever it is: Extend app source (exported with Local Disk Sync, the WDCLI, or the ZIP download), orchestration definitions, an agent skill as markdown, diagrams. The folder must be self-contained.
+3. **Drop your artifact in.** Whatever it is: Extend app source (exported with Local Disk Sync, the WDCLI, or the ZIP download), orchestration definitions, an agent skill as markdown, diagrams. The folder must be self-contained. Once merged, the gallery serves the folder as a zip download automatically; nothing extra to do.
 4. **Fill in the two files.** `example.json` needs a title, a description, and a type; everything else is optional. The README needs four short sections: What it is, What's inside, How to use it, and Before you deploy (everything a reader must change for their own tenant, such as app reference ids, base URLs, WIDs, or dates).
 5. **Validate.** From the repository root:
 
