@@ -55,6 +55,8 @@ hub.config.json          Repo URLs and the approved type, component, and product
 
 ## Use an example
 
+Every example can be downloaded on its own from the [gallery](https://workday.github.io/WorkdayDeveloperProgram/): each card and example page has a **Download zip** button, so there is no need to clone the whole repository. The zip includes a `SOURCE.md` that records the commit it was built from and how to send changes back. To work with git instead:
+
 ```bash
 git clone https://github.com/Workday/WorkdayDeveloperProgram
 cd WorkdayDeveloperProgram
