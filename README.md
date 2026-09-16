@@ -72,6 +72,7 @@ Workday-built apps, maintained by Workday. Both tables below are kept in sync wi
 <!-- catalog:start -->
 | Example | Description | Type |
 | --- | --- | --- |
+| [`ap-einvoice`](catalog/ap-einvoice) | It is a Workday Extend Application that exposes an inbound endpoint and associated orchestration logic to receive text-based electronic invoices in multiple XML schemas. | Reference |
 | [`AWSStarterKit`](catalog/AWSStarterKit) | Jumpstart your AWS app with the AWS starter kit examples. | Extend App |
 | [`capitalProjectPlanning`](catalog/capitalProjectPlanning) | This application simplifies requesting new capital projects and managing their planned capital funds, providing transparency and accountability. It allows you to track financial impact, manage funds efficiently, and make informed investment decisions. Built to complement Workday Adaptive Planning capabilities, it enhances the end-user experience and streamlines capital project request workflows, especially beneficial for Healthcare, SLED, and beyond. | Extend App |
 | [`charitableDonations`](catalog/charitableDonations) | Enable employees to donate to charities with one-time and recurring payroll deductions. Features hubs and cards. | Extend App |
